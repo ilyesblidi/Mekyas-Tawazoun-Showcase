@@ -234,9 +234,8 @@ into one practical and meaningful mobile experience.
 🎓 Third-year Computer Science Student at ESI Algiers
 💻 Passionate about Mobile Development, Flutter, and Problem Solving
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-* Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/ilyesblidi)
+* LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/lyes-blidi)
 
 ---
 
