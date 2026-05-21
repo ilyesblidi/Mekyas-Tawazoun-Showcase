@@ -52,7 +52,7 @@ The goal of the project is to help users better understand themselves, identify 
 
 ---
 
-# 📱 Screenshots
+# 🔍 Explore the Experience
 
 <p align="center">
   <strong>User Journey — From Assessment to Growth</strong>
