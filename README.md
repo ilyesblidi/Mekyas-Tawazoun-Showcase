@@ -60,17 +60,17 @@ The goal of the project is to help users better understand themselves, identify 
 
 | Home Dashboard | Diagnostic Page | Results Page |
 | :---: | :---: | :---: |
-| <img src="home_page.png" width="300" alt="Home Page"/> | <img src="/diagnostic_page.png" width="275" alt="Diagnostic Page"/> | <img src="screenshots/results_page.png" width="275" alt="Results Page"/> |
+| <img src="home_page.png" width="300" alt="Home Page"/> | <img src="diagnostic_page.png" width="275" alt="Diagnostic Page"/> | <img src="results_page.png" width="275" alt="Results Page"/> |
 | *Overview of user balance and quick actions* | *Life dimensions assessment* | *Radar chart and score visualization* |
 
 | Recommendations | Action Plan | Profile |
 | :---: | :---: | :---: |
-| <img src="screenshots/recommendations_page.png" width="240" alt="Recommendations"/> | <img src="screenshots/action_plan_page.png" width="240" alt="Action Plan"/> | <img src="screenshots/profile_page.png" width="240" alt="Profile Page"/> |
+| <img src="recommendations_page.png" width="240" alt="Recommendations"/> | <img src="action_plan_page.png" width="240" alt="Action Plan"/> | <img src="profile_page.png" width="240" alt="Profile Page"/> |
 | *Personalized improvement suggestions* | *Task planning and progress tracking* | *User information and settings* |
 
 | Statistics | Onboarding | Dark Mode |
 | :---: | :---: | :---: |
-| <img src="screenshots/statistics_page.png" width="240" alt="Statistics"/> | <img src="screenshots/onboarding_page.png" width="240" alt="Onboarding"/> | <img src="screenshots/dark_mode.png" width="240" alt="Dark Mode"/> |
+| <img src="statistics_page.png" width="240" alt="Statistics"/> | <img src="onboarding_page.png" width="240" alt="Onboarding"/> | <img src="dark_mode.png" width="240" alt="Dark Mode"/> |
 | *Analytics and evolution tracking* | *Smooth onboarding experience* | *Modern dark theme interface* |
 
 > 💡 All screens are fully responsive and optimized for mobile user experience.
