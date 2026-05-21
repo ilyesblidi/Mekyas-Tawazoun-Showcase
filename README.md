@@ -60,7 +60,7 @@ The goal of the project is to help users better understand themselves, identify 
 
 | Home Dashboard | Diagnostic Page | Results Page |
 | :---: | :---: | :---: |
-| <img src="screenshots/home_page.png" width="240" alt="Home Page"/> | <img src="screenshots/diagnostic_page.png" width="240" alt="Diagnostic Page"/> | <img src="screenshots/results_page.png" width="240" alt="Results Page"/> |
+| <img src="home_page.png" width="240" alt="Home Page"/> | <img src="/home_page.png" width="240" alt="Diagnostic Page"/> | <img src="screenshots/results_page.png" width="240" alt="Results Page"/> |
 | *Overview of user balance and quick actions* | *Life dimensions assessment* | *Radar chart and score visualization* |
 
 | Recommendations | Action Plan | Profile |
@@ -114,34 +114,6 @@ graph LR
 | **Architecture**       | Clean Architecture  |
 
 ---
-
-# 🏗️ Architecture
-
-The project follows a clean and modular architecture structure:
-
-```bash
-lib/
-├── core/
-│   ├── constants/
-│   ├── themes/
-│   ├── routes/
-│   └── utils/
-│
-├── data/
-│   ├── models/
-│   ├── datasources/
-│   └── repositories/
-│
-├── domain/
-│   └── usecases/
-│
-├── presentation/
-│   ├── screens/
-│   ├── widgets/
-│   └── providers/
-│
-└── main.dart
-```
 
 ### ✅ Principles Used
 
